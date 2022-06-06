@@ -1,4 +1,4 @@
-const Main = () => {
+const Main = (props) => {
   return (
     <main>
       <h1>Fun facts about React</h1>
